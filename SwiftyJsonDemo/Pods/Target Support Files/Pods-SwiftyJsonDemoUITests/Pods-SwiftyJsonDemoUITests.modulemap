@@ -1,0 +1,6 @@
+framework module Pods_SwiftyJsonDemoUITests {
+  umbrella header "Pods-SwiftyJsonDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
